@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suren3298
+- 👋 Hi, I’m @surendar
 - 👀 I’m interested software testing
 - 🌱 I’m currently learning ...java with selenium and manual testing
 - 💞️ I’m looking to collaborate on ...your company
